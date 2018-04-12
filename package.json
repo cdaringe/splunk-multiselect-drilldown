@@ -1,0 +1,9 @@
+{
+  "name": "splunk-multiselect-drilldown",
+  "version": "0.0.1",
+  "description": "enable passing multiselect keys for drilldown dashboards",
+  "main": "src/index.js",
+  "repository": "git@github.com:cdaringe/splunk-multiselect-drilldown.git",
+  "author": "cdaringe <christopher.dieringer@gmail.com>",
+  "license": "MIT"
+}
