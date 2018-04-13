@@ -1,5 +1,7 @@
 # splunk-multiselect-drilldown
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cdaringe/splunk-multiselect-drilldown.svg)](https://greenkeeper.io/)
+
 enable the easy setting of multi-select fields from drilldown reports
 
 when running a splunk drilldown, pass the `key` that you need selected in your multiselect field.  this is particularly useful when the `value` that your multiselect uses is part of a complex query!
